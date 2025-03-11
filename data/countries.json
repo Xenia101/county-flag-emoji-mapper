@@ -1288,5 +1288,10 @@
       "region_name_ko": "짐바브웨",
       "region_name_en": "Zimbabwe",
       "emoji": "🇿🇼"
+  },
+  {
+      "region_name_ko": "스코틀랜드",
+      "region_name_en": "Scotland",
+      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
   }
 ]
